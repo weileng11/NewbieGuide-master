@@ -40,7 +40,6 @@ public class FirstActivity extends AppCompatActivity {
 	    //exitAnimation.setDuration(600);
 	    //exitAnimation.setFillAfter(true);
 	
-	
 	    //简单使用
         final Button btnSimple = (Button) findViewById(R.id.btn_simple);
         btnSimple.setOnClickListener(new View.OnClickListener() {
